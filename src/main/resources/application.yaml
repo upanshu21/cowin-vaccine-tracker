@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: cowin-vaccine-tracker
+
+cowin:
+  district:
+    id: 145
+  age: 18
